@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou estudante, cursando Análise e Desenvolvimento de Sistemas pelo **Senac**
 
-- 🌱 Atualmente estou aprendendo e praticando **Modelagem de banco de dados, SQL, Programação WEB**
+- 🌱 Atualmente estou aprendendo e praticando **Modelagem de banco de dados, SQL, Programação WEB e Spring boot**
 
 - 👨‍💻 Meus principais projetos desenvolvidos até o momento estão disponíveis em meus repositórios [https://github.com/Domiuau?tab=repositories](https://github.com/Domiuau?tab=repositories)
 
