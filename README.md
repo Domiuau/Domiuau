@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Guilherme</h1>
 <h3 align="center">Tenho grande entusiasmo por desenvolver projetos e afinidade com a linguagem Java</h3>
 
-- 🔭 Atualmente sou estudante, cursando Análise e Desenvolvimento de Sistemas **Senac**
+- 🔭 Atualmente sou estudante, cursando Análise e Desenvolvimento de Sistemas pelo **Senac**
 
 - 🌱 Atualmente estou aprendendo e praticando **Modelagem de banco de dados, SQL, Programação WEB**
 
