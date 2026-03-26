@@ -30,9 +30,8 @@ https://github.com/Domiuau?tab=repositories
 - Desenvolvimento completo da aplicação (backend + frontend)
 - API REST estruturada com autenticação e controle de acesso
 - Integração com pagamentos (Stripe)
-- Integração com APIs como Gemini, ChatGPT e DeepSeek
-- Envio de Emails
 - Deploy e manutenção em ambiente real
+- Tecnologias Utilizadas: Spring Boot, MySQL, Flyway, Spring Security, JWT Auth0, OAuth2, Stripe, Redis, Bucket4j, HTML, CSS, JavaScript, Charts.js, Thymeleaf, Brevo, APIs de IA como Gemini - ChatGPT - DeepSeek
 
 ---
 
