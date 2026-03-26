@@ -48,7 +48,7 @@ https://github.com/Domiuau?tab=repositories
 
 ## Contato
 
-- Email: DomiUAUnoob@outlook.com  
+- Email: guilherme.mssantos@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/guilherme-sousa-196532239/  
 - Discord: domiuau#5432  
 
@@ -56,6 +56,4 @@ https://github.com/Domiuau?tab=repositories
 
 ## Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=domiuau&layout=compact" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domiuau&show_icons=true&locale=en&layout=compact" alt="domiuau" /></p>
