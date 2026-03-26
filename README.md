@@ -1,20 +1,61 @@
-<h1 align="center">Olá 👋, meu nome é Guilherme</h1>
+<h1 align="center">Guilherme Sousa</h1>
 
-- 🔭 Análise e Desenvolvimento de Sistemas e Apple Developer Academy | Senac
-
-- 👨‍💻 Meus principais projetos desenvolvidos até o momento estão disponíveis em meus repositórios [https://github.com/Domiuau?tab=repositories](https://github.com/Domiuau?tab=repositories)
-
-- 💬 Me pergunte sobre **Java, SwiftUI, Spring boot, Algorítmos**
-
-- 📫 Entre em contato através do e-mail **DomiUAUnoob@outlook.com**
-
-<h3 align="left">Outras formas de contato:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-sousa-196532239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-sousa-196532239/" height="30" width="40" /></a>
-<a href="https://discord.gg/domiuau#5432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="domiuau#5432" height="30" width="40" /></a>
+<p align="center">
+Backend Engineer (Java) • iOS Developer (SwiftUI)
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domiuau&show_icons=true&locale=en&layout=compact" alt="domiuau" /></p>
+## Sobre
+
+Desenvolvedor com foco em backend utilizando Java e Spring Boot, além de desenvolvimento iOS com SwiftUI.  
+Experiência na construção de aplicações completas, incluindo arquitetura, APIs, persistência de dados e interfaces.
+
+Formado em Análise e Desenvolvimento de Sistemas | Senac
+Apple Developer Academy Alumni | Senac
+
+---
+
+## Projetos Públicos
+
+Lista completa:  
+https://github.com/Domiuau?tab=repositories
+
+---
+
+## Publicados
+
+### Plataforma SaaS
+- https://nice-graphs.com
+- Desenvolvimento completo da aplicação (backend + frontend)
+- API REST estruturada com autenticação e controle de acesso
+- Integração com pagamentos (Stripe)
+- Integração com APIs como Gemini, ChatGPT e DeepSeek
+- Envio de Emails
+- Deploy e manutenção em ambiente real
+
+---
+
+### Aplicativos na AppStore
+- https://apps.apple.com/br/app/placespot/id6752423279
+- https://apps.apple.com/br/app/aquacultive/id6737782050
+- https://apps.apple.com/br/app/skedia/id6745489564
+- Desenvolvimento utilizando SwiftUI
+- Integração com APIs próprias
+- Publicação e gerenciamento na App Store
+
+---
+
+## Contato
+
+- Email: DomiUAUnoob@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/guilherme-sousa-196532239/  
+- Discord: domiuau#5432  
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=domiuau&layout=compact" />
+</p>
