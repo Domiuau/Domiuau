@@ -50,7 +50,7 @@ https://github.com/Domiuau?tab=repositories
 
 - Email: guilherme.mssantos@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/guilherme-sousa-196532239/  
-- Discord: domiuau#5432  
+- Discord: domiuau  
 
 ---
 
