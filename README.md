@@ -12,6 +12,7 @@ Desenvolvedor com foco em backend utilizando Java e Spring Boot, além de desenv
 Experiência na construção de aplicações completas, incluindo arquitetura, APIs, persistência de dados e interfaces.
 
 Formado em Análise e Desenvolvimento de Sistemas | Senac
+
 Apple Developer Academy Alumni | Senac
 
 ---
